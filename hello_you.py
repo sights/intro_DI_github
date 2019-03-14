@@ -2,7 +2,8 @@
 """
 Created on Thu Mar 14 17:56:16 2019
 
-@author: Tali
+@author: sights
 """
 
 print("The weather is rainy today")
+print("I love coding")
