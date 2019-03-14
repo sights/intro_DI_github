@@ -6,4 +6,7 @@ Created on Thu Mar 14 17:56:16 2019
 """
 
 print("The weather is rainy today")
+<<<<<<< HEAD
 print("I love coding")
+=======
+>>>>>>> 9cf6d5f396ef526dafd3421cab8f8354c5f1d866
